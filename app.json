@@ -6,6 +6,7 @@
     "SSO",
     "SAML"
   ],
+	"stack": "heroku-20",
   "logo": "https://www.ossoapp.com/img/logo.svg",
   "repository": "https://github.com/enterprise-oss/osso",
   "website": "https://ossoapp.com",
